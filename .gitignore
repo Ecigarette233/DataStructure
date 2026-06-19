@@ -1,0 +1,8 @@
+# 编译产物
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE
+.vscode/
